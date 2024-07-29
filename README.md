@@ -1,0 +1,3 @@
+# Ajax Nedir
+Ajax’a en temel ifade ile, Javascript tarafından tanınan kodlama dili denilebilir. Tüm bu özelliklerinin yanı sıra Ajax sayesinde web sitelerinin dinamik içerikleri yönetilir ve dinamik bir şekilde yapı kurularak kullanıcı etkileşimi sağlanır. Adından da anlaşılacağı üzere Xtensible Markup Language-Genişletilebilir İşaretleme Dili, sıklıkla kullanılan ve herkes tarafından bilinen HTML ve XML’nin benzeridir. Bu durum kısaca şu şekilde açıklanabilir; HTML verileri göstermek için tasarlanır, XML ise veriyi kapsar.
+JavaScript, Ajax ya da XML fark etmeksizin hepsi eş zamansız bir şekilde çalışır. Bu sebeple Ajax kullanımı gerçekleştirilen her web sitesinde sayfa yenilenmeden veriler gönderilebilir ve geri alım gerçekleştirilebilir.
